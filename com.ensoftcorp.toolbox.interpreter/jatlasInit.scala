@@ -35,3 +35,6 @@ import toolbox.analysis._
 import toolbox.analysis.scripts._
 import toolbox.library.util._
 import toolbox.library.util.ScriptUtilities._
+
+import toolbox.analysis.guru._
+import com.ensoftcorp.atlas.java.core.db.graph.GraphElement._
